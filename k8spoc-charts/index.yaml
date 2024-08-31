@@ -1,18 +1,18 @@
 apiVersion: v1
 entries:
-  johnbastow-k8spoc:
+  k8spoc:
   - apiVersion: v2
-    created: "2024-08-31T00:15:57.9977274-04:00"
+    created: "2024-08-31T00:52:39.6913848-04:00"
     description: POC of K8s implementation
-    digest: 5ed71f106ac98837db69fc4a0ad81aa5360c3abc46609dbb40b3975f0f0b08f7
+    digest: 4e4c40bad66edc3b498fe2b96a24031cebdca8c680a4376a94478bd53e16028c
     home: https://johnbastow.github.io
     keywords:
     - A list of keywords about this project (optional)
     maintainers:
     - name: John Bastow
-    name: johnbastow-k8spoc
+    name: k8spoc
     type: application
     urls:
-    - johnbastow-k8spoc-0.0.1.tgz
+    - https://johnbastow.github.io/k8spoc-charts/k8spoc-0.0.1.tgz
     version: 0.0.1
-generated: "2024-08-31T00:15:57.9967733-04:00"
+generated: "2024-08-31T00:52:39.6913848-04:00"
